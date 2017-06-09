@@ -18,5 +18,6 @@ requests module
 Consists two files 
 1. send.py 
 2. core.pyo
+
 Both are necessary for successful execution.
 
